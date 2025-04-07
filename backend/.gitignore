@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Env
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Build (if using TS or similar)
+dist/
+*.tsbuildinfo
+
+# DB
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+*.sql
+*.bak
+
+# Uploads or temp
+uploads/
+tmp/
+storage/
+
+# Laravel-specific (if using PHP)
+vendor/
+bootstrap/cache/
