@@ -11,6 +11,7 @@ Here's how to create my own website for the Online Food Ordering System.
 - Frontend: React, TailwindCSS
 - Backend: Node.js + Express
 - Database: PostgreSQL
+- Coding Programs used: Visual Studio or Cursor
 
 ## Getting Started
 1. Clone the repo
