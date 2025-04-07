@@ -1,5 +1,26 @@
-node_modules/
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Global env files
 .env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# IDEs & editors
 .vscode/
-__pycache__/
+.idea/
+*.sw?
+
+# Output or temp
 dist/
+build/
+uploads/
+public/uploads/
+coverage/
+test-results/
+junit.xml
